@@ -1,1 +1,2 @@
-# module-federation-starter
+# Starterkit for Trying out @angular-architects/module-federation
+
